@@ -1,2 +1,14 @@
-# lw_graduation_project
-graduation project
+# Differentiable Architecture Search
+## Requirements
+```
+Python >= 3.5.5, PyTorch == 0.3.1, torchvision == 0.2.0
+```
+## Datasets
+Cifar-10 and ImageNet
+
+
+
+more information is to be updated.
+
+
+
